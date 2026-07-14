@@ -1,0 +1,6 @@
+Fenêtre                : 2
+Architecture            : (20, 10)
+Nb exemples entraînement: 468
+MSE  (train)            : 1.47614630e-05
+RMSE (train)            : 3.84206493e-03
+MAE  (train)            : 2.92338466e-03
