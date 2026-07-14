@@ -36,12 +36,11 @@ artificiel multicouche (perceptron multicouche).
 
 ## Installation
 
-```fish
 python3 -m venv venv
 source venv/bin/activate.fish   # sous fish
 # ou : source venv/bin/activate   # sous bash/zsh
 pip install -r requirements.txt
-```
+
 
 ## Utilisation
 
@@ -76,10 +75,4 @@ Les résultats numériques (8 chiffres significatifs) et les erreurs de
 prédiction associées sont disponibles dans le dossier `results/`.
 Les graphiques correspondants sont dans `figures/`.
 
-## Auteurs
 
-_À compléter_
-
-## Remise
-
-À rendre dans 2 mois (date exacte à préciser ultérieurement).
