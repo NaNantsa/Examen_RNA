@@ -3,7 +3,6 @@
 optimale déterminée à l'étape 3a.
 
 Architecture retenue : fenêtre = 2, couches cachées = (20, 10)
-(à adapter ci-dessous si votre résultat de l'étape 3a diffère)
 """
 import numpy as np
 from sklearn.neural_network import MLPRegressor
